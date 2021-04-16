@@ -13,13 +13,13 @@ export const navItems = [
     },
     {
         name: 'Youtube',
-        url: 'https://www.youtube.com/',
+        url: 'https://www.youtube.com/channel/UCzrBPd7Un3688560lOblb_w',
         categories: ['social'],
         isExternal: true,
     },
     {
         name: 'Blog',
-        url: 'https://medium.com/symphony-finance',
+        url: 'https://medium.com/@symphony-finance',
         categories: ['social'],
         headerNav: true,
         isExternal: true,

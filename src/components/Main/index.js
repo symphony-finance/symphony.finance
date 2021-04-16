@@ -50,7 +50,7 @@ export default function Main() {
                         </div>
                         <div className="col-lg-8 align-self-baseline">
                             <p className="text-black-75 font-weight-light mb-5">
-                            Maximise returns on your asset automatically!
+                                Maximise returns on your asset automatically!
                             </p>
                             <a
                                 className="btn btn-primary btn-xl js-scroll-trigger"
@@ -73,13 +73,14 @@ export default function Main() {
                             <h2 className="text-white mt-0">We've got what you need!</h2>
                             <hr className="divider light my-4" />
                             <p className="text-white-70 mb-4">
-                            Create limit orders by depositing the sell asset and get awesome yield + buy asset once the order is filled automatically!
+                                Symphony finance allows users to create limit orders by depositing the sell asset. The order is filled automatically by an "Executor" who takes a fee to execute the orders only if the order's price constraints are satisfied. The sell asset is deposited to a yield generating protocol like Aave, Yearn, Mstable, etc.<br /><br />
+                                This feature allows limit orders to earn yield for the time they are on the order book. The initial deposit + yield earned are traded for the buy asset by the executor only if the price constraints are satisfied. The order creator receives the buy assets automatically when the order is filled. The order creator can also set a stop loss to minimise losses while still earning yield.
                             </p>
                             <a
                                 className="btn btn-light btn-xl js-scroll-trigger"
-                                href="#services"
+                                href="#about"
                             >
-                                Comming Soon!
+                                Coming Soon
                             </a>
                         </div>
                     </div>

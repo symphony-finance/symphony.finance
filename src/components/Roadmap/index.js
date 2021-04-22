@@ -11,29 +11,24 @@ export default function Roadmap() {
             <Box fontSize={['sm', 'md']}>
                 <table className="roadMapTable">
                     <tbody>
-                        {/* <tr className="old">
+                        <tr className="old">
                             <td>APRIL 2021</td>
                             <td> ✓ </td>
                             <td>Introduced Symphony Finance</td>
-                        </tr> */}
+                        </tr>
                         <tr className="current">
                             <td style={{ color: '#6a854c' }}>
                                 <b>APRIL 2021</b>
                             </td>
                             <td></td>
                             <td>
-                                <b>Introducing Symphony Finance</b>
+                                <b>Testnet Launch</b>
                             </td>
-                        </tr>
-                        <tr className="new">
-                            <td>APRIL 2021</td>
-                            <td>  </td>
-                            <td>Testnet Launch</td>
                         </tr>
                         <tr className="new">
                             <td>MAY 2021</td>
                             <td>  </td>
-                            <td>Private Sale</td>
+                            <td>Fundraising</td>
                         </tr>
                         <tr className="new">
                             <td>Qz 202a</td>

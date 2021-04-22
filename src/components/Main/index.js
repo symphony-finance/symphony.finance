@@ -78,9 +78,11 @@ export default function Main() {
                             </p>
                             <a
                                 className="btn btn-light btn-xl js-scroll-trigger"
-                                href="#about"
+                                href="https://symphony-finance.medium.com/introduction-to-symphony-finance-f597f1ac0d95"
+                                target="_blank"
+                                rel="noopener noreferrer"
                             >
-                                Coming Soon
+                                Read More
                             </a>
                         </div>
                     </div>

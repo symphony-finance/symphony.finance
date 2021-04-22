@@ -1,4 +1,4 @@
-export const navItems = [ 
+export const navItems = [
     {
         name: 'Twitter',
         url: 'https://twitter.com/SymphonyFinance',
@@ -8,6 +8,12 @@ export const navItems = [
     {
         name: 'Discord',
         url: 'https://discord.gg/invite/HsVP3KP3VD',
+        categories: ['social'],
+        isExternal: true,
+    },
+    {
+        name: 'Github',
+        url: 'https://github.com/symphony-finance',
         categories: ['social'],
         isExternal: true,
     },

@@ -16,22 +16,17 @@ export default function Roadmap() {
                             <td> ✓ </td>
                             <td>Introduced Symphony Finance</td>
                         </tr>
-                        <tr className="current">
+                        <tr className="old">
                             <td style={{ color: '#6a854c' }}>
-                                <b>APRIL 2021</b>
+                                <b>MAY 2021</b>
                             </td>
-                            <td></td>
+                            <td> ✓ </td>
                             <td>
                                 <b>Testnet Launch</b>
                             </td>
                         </tr>
-                        <tr className="new">
-                            <td>MAY 2021</td>
-                            <td>  </td>
-                            <td>Fundraising</td>
-                        </tr>
-                        <tr className="new">
-                            <td>Qz 202a</td>
+                        <tr className="current">
+                            <td>Sept 2021</td>
                             <td> </td>
                             <td>Mainnet Launch</td>
                         </tr>

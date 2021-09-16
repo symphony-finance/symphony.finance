@@ -54,7 +54,7 @@ export default function Main() {
                             </p>
                             <a
                                 className="btn btn-primary btn-xl js-scroll-trigger"
-                                href="https://app.symphony.finance"
+                                href="https://polygon.symphony.finance"
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >
@@ -78,7 +78,7 @@ export default function Main() {
                             </p>
                             <a
                                 className="btn btn-light btn-xl js-scroll-trigger"
-                                href="https://symphony-finance.medium.com/introduction-to-symphony-finance-f597f1ac0d95"
+                                href="https://symphonyfi.gitbook.io/docs/"
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >
